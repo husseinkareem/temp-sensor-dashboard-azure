@@ -19,8 +19,8 @@ Det här är en komplett IoT-lösning som inkluderar både hårdvaran (Raspberry
 3. Flask-servern tar emot datan och skickar den till en **Azure SQL-databas** för lagring.
 4. **Dash-applikationen** visualiserar datan i en graf och visar de senaste temperatur- och luftfuktighetsvärdena i realtid.
 
-##Diagram över Projektarkitektur
-#Här är ett flödesschema som visar hur hela systemet är uppbyggt:
+## Diagram över Projektarkitektur
+# Här är ett flödesschema som visar hur hela systemet är uppbyggt:
 ![Projektarkitektur](images/Projektarkitektur.png)
 
 
