@@ -118,8 +118,3 @@ FLASK_SECRET_KEY=<din_secret_key>
 ## Framtida utveckling
 - **Utöka visualiseringen** genom att lägga till fler sensorer eller använda olika visualiseringstyper i Dash.
 - **Deploya Flask-servern** till en publik molnmiljö (exempelvis Azure eller AWS) för att få en publik URL som Raspberry Pi kan skicka data till.
-
-## Kontakt
-För frågor eller funderingar, vänligen kontakta mig via [din email eller kontaktinfo här].
-
-
