@@ -1,0 +1,5 @@
+.env
+.venv
+.DS_Store  # För Mac-användare
+*.pyc
+__pycache__/
